@@ -1,0 +1,5 @@
+# Mount only the Host-side service. The model-facing `/tool` entry is composed
+# separately by the user-owned My Coding preset.
+- insert:
+    - id: dsh-context-delegation-host
+      name: dsh-context-delegation

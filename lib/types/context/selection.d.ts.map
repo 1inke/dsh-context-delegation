@@ -1,0 +1,1 @@
+{"version":3,"file":"selection.d.ts","sourceRoot":"","sources":["../../../src/context/selection.ts"],"names":[],"mappings":"AAOA,OAAO,KAAK,EAAE,eAAe,EAAE,gBAAgB,EAAE,gBAAgB,EAAqB,+BAA+B,EAAsB,MAAM,aAAa,CAAA;AAK9J,yFAAyF;AACzF,wBAAgB,aAAa,CAAC,OAAO,EAAE,SAAS,gBAAgB,EAAE,EAAE,KAAK,EAAE,eAAe,EACxF,aAAa,EAAE,SAAS,MAAM,EAAE,EAAE,SAAS,EAAE,+BAA+B,GAAG,gBAAgB,CA0DhG"}

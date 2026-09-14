@@ -1,0 +1,15 @@
+node_modules/
+coverage/
+*.log
+
+# Local development and deployment evidence; these contain machine-specific
+# paths or test-session details and are not part of the distributable plugin.
+block0/
+BLOCK*_REPORT.md
+BLOCK*_DECISIONS.md
+BLOCK*_TASKS.md
+BLOCK2_PRE_REMEDIATION_ISSUES.md
+E2E_REPORT.md
+API_AUDIT.md
+IMPLEMENTATION_PLAN.md
+block5-codex-model.overlay.yml
